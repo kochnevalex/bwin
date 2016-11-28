@@ -15,36 +15,44 @@
 
 .main.ready
   opacity: 1
-  
+
 .left-lighter, .right-lighter
   position: absolute
   top: 0
   opacity: 0
 
-
 .left-lighter
-  width: 461px
-  height: 638px
+  width: 60%
+  height: auto
   left: 0
-  background: url('../images/left-lighter.png') no-repeat
+  //background: url('../images/left-lighter.png') no-repeat
 
 .right-lighter
-  width: 461px
-  height: 638px
+  width: 60%
+  height: auto
   right: 0
-  background: url('../images/right-lighter.png') no-repeat
+  //background: url('../images/right-lighter.png') no-repeat
 
 .bwin-logo
   position: absolute
+  z-index: 2
   display: none
   top: 50%
   left: 50%
   transform: translateX(-50%) translateY(-50%)
-
 
 .bg-image
   @include absolute-center()
   background-position: center
   background-size: cover
 
+@media screen and (min-width: $screen-md)
+  .right-lighter,
+  .left-lighter
+    width: 50%
+
+@media screen and (min-width: $screen-lg)
+  .right-lighter,
+  .left-lighter
+    width: 35%
 

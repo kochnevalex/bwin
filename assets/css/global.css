@@ -3165,27 +3165,24 @@ body[data-aos-easing='ease-in-out-quart'] [data-aos],
 
 .left-lighter
 {
-    left: 0;
+    left: 0; 
 
-    width: 461px;
-    height: 638px;
-
-    background: url('../images/left-lighter.png') no-repeat;
+    width: 60%;
+    height: auto;
 }
 
 .right-lighter
 {
-    right: 0;
+    right: 0; 
 
-    width: 461px;
-    height: 638px;
-
-    background: url('../images/right-lighter.png') no-repeat;
+    width: 60%;
+    height: auto;
 }
 
 .bwin-logo
 {
     position: absolute;
+    z-index: 2;
     top: 50%;
     left: 50%;
 
@@ -3210,6 +3207,24 @@ body[data-aos-easing='ease-in-out-quart'] [data-aos],
     background-position: center;
     -webkit-background-size: cover;
             background-size: cover;
+}
+
+@media screen and (min-width: 768px)
+{
+    .right-lighter,
+    .left-lighter
+    {
+        width: 50%;
+    }
+}
+
+@media screen and (min-width: 992px)
+{
+    .right-lighter,
+    .left-lighter
+    {
+        width: 35%;
+    }
 }
 
 /*# sourceMappingURL=global.css.map */

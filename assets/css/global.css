@@ -3165,18 +3165,26 @@ body[data-aos-easing='ease-in-out-quart'] [data-aos],
 
 .left-lighter
 {
-    left: 0; 
+    left: 0;
 
     width: 60%;
     height: auto;
+
+    -webkit-transition: .5s;
+         -o-transition: .5s;
+            transition: .5s;
 }
 
 .right-lighter
 {
-    right: 0; 
+    right: 0;
 
     width: 60%;
     height: auto;
+
+    -webkit-transition: .5s;
+         -o-transition: .5s;
+            transition: .5s;
 }
 
 .bwin-logo

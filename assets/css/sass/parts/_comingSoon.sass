@@ -1,0 +1,50 @@
+.wrap
+  position: relative
+  background: #000000
+
+.wrap, .main
+  display: block
+  height: 100%
+  min-height: 100%
+
+.main
+  position: relative
+  opacity: 0
+  background-color: #000000
+  overflow: hidden
+
+.main.ready
+  opacity: 1
+  
+.left-lighter, .right-lighter
+  position: absolute
+  top: 0
+  opacity: 0
+
+
+.left-lighter
+  width: 461px
+  height: 638px
+  left: 0
+  background: url('../images/left-lighter.png') no-repeat
+
+.right-lighter
+  width: 461px
+  height: 638px
+  right: 0
+  background: url('../images/right-lighter.png') no-repeat
+
+.bwin-logo
+  position: absolute
+  display: none
+  top: 50%
+  left: 50%
+  transform: translateX(-50%) translateY(-50%)
+
+
+.bg-image
+  @include absolute-center()
+  background-position: center
+  background-size: cover
+
+

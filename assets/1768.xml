@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<?xml-stylesheet type='text/xsl' href='style.xsl'?>
+<?xml-stylesheet type='text/xsl' href='style.xslt'?>
 <gameslist>
     <event name="Лига 1 2016/17" eventdate="20.05.2017 / 18:30" eventlink="https://sports.bwin.com/ru/sports/events/4/4131/5267615?">
         <games name="Чемпион">
-            <results name="ПСЖ" odd="1.55" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=461276766&amp;GameIDs=142981085&amp;ResultOdds=1.55&amp;Stake=10.0"> </results>
+            <results name="ПСЖ" odd="1.55" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=461276766&amp;GameIDs=142981085&amp;ResultOdds=1.55&amp;Stake=10.0"/>
             <results name="Монако" odd="2.65" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=461276768&amp;GameIDs=142981085&amp;ResultOdds=2.65&amp;Stake=10.0"/>
             <results name="Ницца" odd="17.0" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=461276770&amp;GameIDs=142981085&amp;ResultOdds=17.0&amp;Stake=10.0"/>
             <results name="Олимпик Лион" odd="101.0" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=461276767&amp;GameIDs=142981085&amp;ResultOdds=101.0&amp;Stake=10.0"/>

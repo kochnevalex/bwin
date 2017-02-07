@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type='text/xsl' href='style.xsl'?>
+<gameslist>
+    <event name="Лига 1 2016/17" eventdate="20.05.2017 / 18:30" eventlink="https://sports.bwin.com/ru/sports/events/4/4131/5267615?">
+        <games name="Чемпион">
+            <results name="ПСЖ" odd="1.55" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=461276766&amp;GameIDs=142981085&amp;ResultOdds=1.55&amp;Stake=10.0"> </results>
+            <results name="Монако" odd="2.65" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=461276768&amp;GameIDs=142981085&amp;ResultOdds=2.65&amp;Stake=10.0"/>
+            <results name="Ницца" odd="17.0" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=461276770&amp;GameIDs=142981085&amp;ResultOdds=17.0&amp;Stake=10.0"/>
+            <results name="Олимпик Лион" odd="101.0" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=461276767&amp;GameIDs=142981085&amp;ResultOdds=101.0&amp;Stake=10.0"/>
+            <results name="Сэнт-Этьен" odd="351.0" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=461276772&amp;GameIDs=142981085&amp;ResultOdds=351.0&amp;Stake=10.0"/>
+            <results name="Олимпик Марсель" odd="351.0" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=461276769&amp;GameIDs=142981085&amp;ResultOdds=351.0&amp;Stake=10.0"/>
+            <results name="Ренн" odd="1501.0" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=461276775&amp;GameIDs=142981085&amp;ResultOdds=1501.0&amp;Stake=10.0"/>
+            <results name="Бордо" odd="1501.0" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=461276773&amp;GameIDs=142981085&amp;ResultOdds=1501.0&amp;Stake=10.0"/>
+            <results name="Генгам" odd="1501.0" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=461276777&amp;GameIDs=142981085&amp;ResultOdds=1501.0&amp;Stake=10.0"/>
+            <results name="Бастия" odd="2001.0" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=461276784&amp;GameIDs=142981085&amp;ResultOdds=2001.0&amp;Stake=10.0"/>
+            <results name="Мец" odd="2001.0" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=461276783&amp;GameIDs=142981085&amp;ResultOdds=2001.0&amp;Stake=10.0"/>
+            <results name="Лилль" odd="2001.0" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=461276771&amp;GameIDs=142981085&amp;ResultOdds=2001.0&amp;Stake=10.0"/>
+            <results name="Дижон" odd="2001.0" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=461276782&amp;GameIDs=142981085&amp;ResultOdds=2001.0&amp;Stake=10.0"/>
+            <results name="Нант" odd="2001.0" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=461276778&amp;GameIDs=142981085&amp;ResultOdds=2001.0&amp;Stake=10.0"/>
+            <results name="Тулуза" odd="2001.0" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=461276780&amp;GameIDs=142981085&amp;ResultOdds=2001.0&amp;Stake=10.0"/>
+            <results name="Лорьен" odd="3501.0" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=461276779&amp;GameIDs=142981085&amp;ResultOdds=3501.0&amp;Stake=10.0"/>
+            <results name="Нанси-Лоррен" odd="3501.0" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=461276781&amp;GameIDs=142981085&amp;ResultOdds=3501.0&amp;Stake=10.0"/>
+            <results name="Монпелье" odd="3501.0" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=461276776&amp;GameIDs=142981085&amp;ResultOdds=3501.0&amp;Stake=10.0"/>
+            <results name="Кан" odd="3501.0" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=461276774&amp;GameIDs=142981085&amp;ResultOdds=3501.0&amp;Stake=10.0"/>
+            <results name="Анже" odd="3501.0" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=461276785&amp;GameIDs=142981085&amp;ResultOdds=3501.0&amp;Stake=10.0"/>
+        </games>
+    </event>
+    <event name="Премьер-Лига 2016/2017" eventdate="21.05.2017 / 14:00" eventlink="https://sports.bwin.com/ru/sports/events/4/46/5263940?">
+        <games name="Чемпион">
+            <results name="Челси" odd="1.14" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=460783188&amp;GameIDs=142824868&amp;ResultOdds=1.14&amp;Stake=10.0"/>
+            <results name="Ман. Сити" odd="13.0" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=460783185&amp;GameIDs=142824868&amp;ResultOdds=13.0&amp;Stake=10.0"/>
+            <results name="Тоттенхэм" odd="15.0" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=460783189&amp;GameIDs=142824868&amp;ResultOdds=15.0&amp;Stake=10.0"/>
+            <results name="Ливерпуль" odd="51.0" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=460783190&amp;GameIDs=142824868&amp;ResultOdds=51.0&amp;Stake=10.0"/>
+            <results name="Ман. Ютд" odd="51.0" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=460783186&amp;GameIDs=142824868&amp;ResultOdds=51.0&amp;Stake=10.0"/>
+            <results name="Арсенал" odd="51.0" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=460783187&amp;GameIDs=142824868&amp;ResultOdds=51.0&amp;Stake=10.0"/>
+        </games>
+    </event>
+    <event name="Премьер-Лига 2016/2017, первые 4" eventdate="21.05.2017 / 14:00" eventlink="https://sports.bwin.com/ru/sports/events/4/46/5263958?">
+        <games name="Какая команда финиширует в 1-й четверке?">
+            <results name="Ман. Сити" odd="1.2" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=460786281&amp;GameIDs=142825800&amp;ResultOdds=1.2&amp;Stake=10.0"/>
+            <results name="Тоттенхэм" odd="1.25" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=460786285&amp;GameIDs=142825800&amp;ResultOdds=1.25&amp;Stake=10.0"/>
+            <results name="Ливерпуль" odd="1.91" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=460786286&amp;GameIDs=142825800&amp;ResultOdds=1.91&amp;Stake=10.0"/>
+            <results name="Арсенал" odd="1.91" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=460786283&amp;GameIDs=142825800&amp;ResultOdds=1.91&amp;Stake=10.0"/>
+            <results name="Ман. Ютд" odd="2.0" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=460786282&amp;GameIDs=142825800&amp;ResultOdds=2.0&amp;Stake=10.0"/>
+            <results name="Эвертон" odd="41.0" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=460786290&amp;GameIDs=142825800&amp;ResultOdds=41.0&amp;Stake=10.0"/>
+        </games>
+    </event>
+    <event name="Премьер-Лига 2016/2017, вылет" eventdate="21.05.2017 / 14:00" eventlink="https://sports.bwin.com/ru/sports/events/4/46/5263960?">
+        <games name="Какая команды вылетит из лиги?">
+            <results name="Сандерлэнд" odd="1.36" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=460786429&amp;GameIDs=142825849&amp;ResultOdds=1.36&amp;Stake=10.0"/>
+            <results name="Халл" odd="1.7" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=460786423&amp;GameIDs=142825849&amp;ResultOdds=1.7&amp;Stake=10.0"/>
+            <results name="К.Пэлэс" odd="2.0" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=460786431&amp;GameIDs=142825849&amp;ResultOdds=2.0&amp;Stake=10.0"/>
+            <results name="Мидлсбро" odd="2.3" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=460786425&amp;GameIDs=142825849&amp;ResultOdds=2.3&amp;Stake=10.0"/>
+            <results name="Суонси" odd="2.6" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=460786430&amp;GameIDs=142825849&amp;ResultOdds=2.6&amp;Stake=10.0"/>
+            <results name="Лестер" odd="3.5" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=460786436&amp;GameIDs=142825849&amp;ResultOdds=3.5&amp;Stake=10.0"/>
+            <results name="Борнмут" odd="8.5" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=460786428&amp;GameIDs=142825849&amp;ResultOdds=8.5&amp;Stake=10.0"/>
+            <results name="Бернли" odd="13.0" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=460786424&amp;GameIDs=142825849&amp;ResultOdds=13.0&amp;Stake=10.0"/>
+            <results name="Уотфорд" odd="23.0" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=460786426&amp;GameIDs=142825849&amp;ResultOdds=23.0&amp;Stake=10.0"/>
+            <results name="С'гемптон" odd="41.0" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=460786434&amp;GameIDs=142825849&amp;ResultOdds=41.0&amp;Stake=10.0"/>
+            <results name="Сток" odd="41.0" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=460786432&amp;GameIDs=142825849&amp;ResultOdds=41.0&amp;Stake=10.0"/>
+            <results name="Вест Хэм" odd="101.0" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=460786435&amp;GameIDs=142825849&amp;ResultOdds=101.0&amp;Stake=10.0"/>
+            <results name="Вест Бром" odd="201.0" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=460786427&amp;GameIDs=142825849&amp;ResultOdds=201.0&amp;Stake=10.0"/>
+        </games>
+    </event>
+    <event name="Премьер-Лига 2016/2017, лучший бомбардир" eventdate="21.05.2017 / 14:00" eventlink="https://sports.bwin.com/ru/sports/events/4/46/5324997?">
+        <games name="Лучший бомбардир">
+            <results name="Гарри Кейн" odd="4.0" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=470099254&amp;GameIDs=145863777&amp;ResultOdds=4.0&amp;Stake=10.0"/>
+            <results name="Ибрагимович" odd="4.0" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=470099255&amp;GameIDs=145863777&amp;ResultOdds=4.0&amp;Stake=10.0"/>
+            <results name="Кошта" odd="4.0" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=470099257&amp;GameIDs=145863777&amp;ResultOdds=4.0&amp;Stake=10.0"/>
+
+        </games>
+    </event>
+    <event name="Арсенал - Халл Сити" eventdate="11.02.2017 / 12:30" eventlink="https://sports.bwin.com/ru/sports/events/4/46/5776734?">
+        <games name="1 Х 2">
+            <results name="Арсенал" odd="1.25" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=541378038&amp;GameIDs=169055310&amp;ResultOdds=1.25&amp;Stake=10.0"/>
+            <results name="Х" odd="6.0" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=541378039&amp;GameIDs=169055310&amp;ResultOdds=6.0&amp;Stake=10.0"/>
+            <results name="Халл" odd="10.0" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=541378040&amp;GameIDs=169055310&amp;ResultOdds=10.0&amp;Stake=10.0"/>
+        </games>
+    </event>
+    <event name="Арсенал - Халл Сити" eventdate="11.02.2017 / 12:30" eventlink="https://sports.bwin.com/ru/sports/events/4/46/5776734?">
+        <games name="сколько голов (2,5)">
+            <results name="Больше 2,5" odd="1.5" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=541378041&amp;GameIDs=169055311&amp;ResultOdds=1.5&amp;Stake=10.0"/>
+            <results name="Меньше 2,5" odd="2.45" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=541378042&amp;GameIDs=169055311&amp;ResultOdds=2.45&amp;Stake=10.0"/>
+        </games>
+    </event>
+    <event name="Арсенал - Халл Сити" eventdate="11.02.2017 / 12:30" eventlink="https://sports.bwin.com/ru/sports/events/4/46/5776734?">
+        <games name="Забьют ли обе команды хотя бы по одному голу в матче?">
+            <results name="Да" odd="2.0" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=541378043&amp;GameIDs=169055312&amp;ResultOdds=2.0&amp;Stake=10.0"/>
+            <results name="Нет" odd="1.72" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=541378044&amp;GameIDs=169055312&amp;ResultOdds=1.72&amp;Stake=10.0"/>
+        </games>
+    </event>
+    <event name="Арсенал - Халл Сити" eventdate="11.02.2017 / 12:30" eventlink="https://sports.bwin.com/ru/sports/events/4/46/5776734?">
+        <games name="1 или 2 (ставка возвращается, если матч заканчивается вничью в основное время)">
+            <results name="Арсенал" odd="1.06" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=541378045&amp;GameIDs=169055313&amp;ResultOdds=1.06&amp;Stake=10.0"/>
+            <results name="Халл" odd="7.25" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=541378046&amp;GameIDs=169055313&amp;ResultOdds=7.25&amp;Stake=10.0"/>
+        </games>
+    </event>
+    <event name="Арсенал - Халл Сити" eventdate="11.02.2017 / 12:30" eventlink="https://sports.bwin.com/ru/sports/events/4/46/5776734?">
+        <games name="1 2 специальные ставки (ставки возвращаются, если матч завершится победой гостей в основное время)">
+            <results name="Арсенал" odd="1.14" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=541378047&amp;GameIDs=169055314&amp;ResultOdds=1.14&amp;Stake=10.0"/>
+            <results name="Х" odd="5.0" placebetlink="https://sports.bwin.com/ru/sports/addbets/?&amp;ResultIDs=541378048&amp;GameIDs=169055314&amp;ResultOdds=5.0&amp;Stake=10.0"/>
+        </games>
+    </event>
+</gameslist>
